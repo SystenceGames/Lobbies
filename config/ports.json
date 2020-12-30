@@ -1,0 +1,14 @@
+{
+  "loadBalancedLobbies": {
+    "type": "TCP",
+    "Port": 10000
+  },
+  "lobbiesDirectHTTP": {
+    "type": "TCP",
+    "Port": 10200
+  },
+  "lobbiesTcp": {
+    "type": "TCP",
+    "Port": 10100
+  }
+}

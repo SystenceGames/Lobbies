@@ -1,0 +1,44 @@
+{
+  "name": "Lobbies",
+  "version": "0.0.0",
+  "description": "Lobbies",
+  "main": "app.js",
+  "private": true,
+  "author": {
+    "name": "Sean Saleh",
+    "email": "sean@maestrosgame.com"
+  },
+  "dependencies": {
+  	"@types/express": "4.0.35",
+  	"@types/form-data": "0.0.33",
+		"@types/mocha": "2.2.41",
+    "@types/mongoose": "4.7.12",
+  	"@types/nconf": "0.0.34",
+  	"@types/node": "^6.0.73",
+  	"@types/q": "1.0.0",
+  	"@types/redis": "0.12.36",
+  	"@types/request": "0.0.43",
+  	"@types/should": "8.3.0",
+  	"@types/sinon": "2.2.1",
+  	"@types/underscore": "1.8.0",
+    "amqplib": "0.5.1",
+    "body-parser": "1.17.1",
+    "express": "4.15.2",
+    "jade": "1.11.0",
+		"jsonwebtoken": "7.4.0",
+    "mongoose": "4.9.9",
+    "morgan": "1.8.1",
+    "nconf": "0.8.4",
+    "node-uuid": "1.4.8",
+    "q": "1.5.0",
+    "redis": "2.7.1",
+    "winston": "2.3.1",
+    "winston-graylog2": "0.6.0"
+  },
+  "devDependencies": {
+    "mocha": "3.1.2",
+    "should": "11.2.1",
+    "sinon": "2.2.0",
+    "fakeredis": "2.0.0"
+  }
+}
